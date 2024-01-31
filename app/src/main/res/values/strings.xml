@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Mohd Haider</string>
+    <string name="my_bio"> I am mohd Haider , recently i have completed my bca from vbspu. I have strong foundation in programming languages throughout my studies I have good exposure on creating web applications I am involved in all phases of the project like developing testing and deploying
+Now I am going to tell you about my strength.
+I am a quick learner and hard working person I'm comfortable with both individual as well as team work
+and My weaknesses is sometimes I take a bit longer time to finish my task but I'm not comfortable until I finished
+That's all about me
+If you have any questions
+I'll be happy to answer you
+        !</string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">Android robot image</string>
+    <string name="auto_fill_hints">classical guitar</string>
+</resources>
